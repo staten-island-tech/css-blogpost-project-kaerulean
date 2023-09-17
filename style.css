@@ -1,0 +1,84 @@
+body{
+    background-color: #1B2845;
+    font-family: 'Fraunces';
+    font-size: 15px;
+    color:#252627;
+    background-image: url(astro.gif);
+}
+
+
+#header__bonuses{
+    font-size: 35px;
+}
+
+div{
+    margin: auto;
+    width: 45%;
+    padding-left: 25px;
+    padding-right: 20px;
+    background-color: #fffbf3;
+    padding-bottom: 5px;
+}
+
+img{
+    padding-left: 40px;
+    width: 90%;
+}
+
+h1{
+    font-size: 40px;
+    font-family: "Fraunces";
+    padding-left: 80px;
+    color: #7D82B8;
+}
+
+p{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#header__88kasyo{
+    margin-left: 45px;
+}
+
+#header__metallica{
+    margin-left: 90px;
+}
+
+#header__shemones{
+    margin-left: 94px;
+}
+
+#header__bonuses{
+    margin-left: 160px;
+}
+
+ul{
+    padding-left: 270px;
+}
+
+#heading__sub{
+    padding-left: 110px;
+}
+
+#list__bonuses{
+    padding-left: 50px;
+}
+
+.list__title{
+    padding-left: 220px;
+    font-size: 20px;
+    color:#7D82B8;
+}
+
+#sub___88kasyo{
+    padding-left: 185px;
+}
+
+a{
+    color:#F7567C;
+}
+
+.list{
+    color: #222E50;
+}
